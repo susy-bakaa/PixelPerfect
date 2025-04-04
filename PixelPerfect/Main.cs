@@ -23,7 +23,7 @@ namespace PixelPerfect
 {
     public partial class PixelPerfect : IDalamudPlugin
     {
-        public string Name => "Pixel Perfect";
+        public string Name => "Pixel Perfect (Unofficial)";
         private readonly IDalamudPluginInterface _pi;
         private readonly ICommandManager _cm;
         private readonly IClientState _cs;

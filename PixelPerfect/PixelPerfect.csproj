@@ -7,6 +7,9 @@
         <PackageProjectUrl>https://github.com/Haplo064/PixelPerfect</PackageProjectUrl>
         <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <TargetFramework>net9.0-windows</TargetFramework>
+        <Platforms>x64;AnyCPU</Platforms>
+        <AssemblyName>PixelPerfectSus</AssemblyName>
     </PropertyGroup>
 
 </Project>
